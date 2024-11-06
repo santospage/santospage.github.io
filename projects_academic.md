@@ -34,7 +34,7 @@ title: Academics
 </details>
 
 <details>
- <summary>Desenvolvimento em Ruby on Rails</summary>
+ <summary>Desenvolvimento</summary>
   <p>This is a study project on Ruby on Rails from a UDEMY course.  
   View Project on <a href="https://github.com/renancambre/Ruby" target="_blank">GitHub</a>.</p>
   
