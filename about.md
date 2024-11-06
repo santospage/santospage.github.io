@@ -12,45 +12,45 @@ I have experience in object-oriented programming, working with languages such as
 ## 🚀 About Me
 
 - 🔭 I’m currently working on Totvs SA as a System Analyst.
-- 🌱 I’m currently learning about microprogramming with React Native and Cloud with AWS
+- 🌱 I’m currently learning about microprogramming with React Native and Cloud with AWS.
 - 👯 I’m looking to collaborate on events as a volunteer.
 - 💬 Ask me about software development, system analysis, scalable architecture, and data integration.
-- 📫 How to reach me: https://www.linkedin.com/in/alessandros/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alessandros/)
 - 😄 Pronouns: He
 
 ## Education Background
 
-**FIAP** - Postgradute Degree in Full Stack Development (2024-2025)
-**AVM - Integrated Colleges** - Posgraduate in Business Management Systems (2014-2015)
+**FIAP** - Postgraduate Degree in Full Stack Development (2024-2025)  
+**AVM - Integrated Colleges** - Postgraduate in Business Management Systems (2014-2015)  
 **UMC - University of Mogi das Cruzes** - Bachelor's Degree in Information Systems (2004-2008)
 
 ## Certifications
 
 - Java
 <p align="center">
-  <img src="assets/certificates/java_1.png" alt="Image 1" width="120" style="margin: 10px;">
-  <img src="assets/certificates/java_2.png" alt="Image 2" width="120" style="margin: 10px;">
-  <img src="assets/certificates/java_3.png" alt="Image 3" width="120" style="margin: 10px;">
-  <img src="assets/certificates/spring_1.png" alt="Image 4" width="120" style="margin: 10px;">
-  <img src="assets/certificates/spring_2.png" alt="Image 5" width="120" style="margin: 10px;">
+  <img src="assets/certificates/java_1.png" alt="Image 1" width="240" style="margin: 10px;">
+  <img src="assets/certificates/java_2.png" alt="Image 2" width="240" style="margin: 10px;">
+  <img src="assets/certificates/java_3.png" alt="Image 3" width="240" style="margin: 10px;">
+  <img src="assets/certificates/spring_1.png" alt="Image 4" width="240" style="margin: 10px;">
+  <img src="assets/certificates/spring_2.png" alt="Image 5" width="240" style="margin: 10px;">
 </p>
 
 - C#
 <p align="center">
-  <img src="assets/certificates/c_sharp_1.png" alt="Image 1" width="120" style="margin: 10px;">
-  <img src="assets/certificates/c_sharp_2.png" alt="Image 2" width="120" style="margin: 10px;">  
+  <img src="assets/certificates/c_sharp_1.png" alt="Image 1" width="240" style="margin: 10px;">
+  <img src="assets/certificates/c_sharp_2.png" alt="Image 2" width="240" style="margin: 10px;">  
 </p>
 
-- Node.js#
+- Node.js
 <p align="center">
-  <img src="assets/certificates/node_1.png" alt="Image 1" width="120" style="margin: 10px;">
-  <img src="assets/certificates/node_2.png" alt="Image 2" width="120" style="margin: 10px;">  
+  <img src="assets/certificates/node_1.png" alt="Image 1" width="240" style="margin: 10px;">
+  <img src="assets/certificates/node_2.png" alt="Image 2" width="240" style="margin: 10px;">  
 </p>
 
-- Angular#
+- Angular
 <p align="center">
-  <img src="assets/certificates/angular_1.png" alt="Image 1" width="120" style="margin: 10px;">
-  <img src="assets/certificates/angular_2.png" alt="Image 2" width="120" style="margin: 10px;">  
+  <img src="assets/certificates/angular_1.png" alt="Image 1" width="240" style="margin: 10px;">
+  <img src="assets/certificates/angular_2.png" alt="Image 2" width="240" style="margin: 10px;">  
 </p>
 
 ## Technical Skills
@@ -69,12 +69,12 @@ Languages Program
 
 </details>
 
-Cloud Plataforms
+Cloud Platforms
 
 <details open>
-<summary>My top Cloud Plataforms</summary>
+<summary>My top Cloud Platforms</summary>
 
-| Rank | Languages |
+| Rank | Platforms |
 | ---: | --------- |
 |    1 | AWS       |
 
@@ -83,9 +83,9 @@ Cloud Plataforms
 Database Management System
 
 <details open>
-<summary>My top DDatabase Management System</summary>
+<summary>My top Database Management Systems</summary>
 
-| Rank | Languages  |
+| Rank | DBMS       |
 | ---: | ---------- |
 |    1 | SQL Server |
 |    2 | Oracle     |
@@ -93,9 +93,11 @@ Database Management System
 |    4 | MySQL      |
 |    5 | MongoDB    |
 
+</details>
+
 ## Experience
 
-- **Totvs SA** - System Analyst (Present Currently)
+- **Totvs SA** - System Analyst (Present)
 
   - Skilled professional in project management, solution development, and integration maintenance via REST and SOAP APIs.
   - Extensive experience in product development, from the initial conception phase (UX) through ongoing maintenance. Engaged in key client interviews, coding, pilot tracking, and product upkeep. My integrated approach spans all stages of the project lifecycle, contributing to effective solutions aligned with market needs.
@@ -112,7 +114,7 @@ Database Management System
 
 - **BRITVIC EBBA** - System Analyst (2018 - 2019)
 
-  - I worked in the analysis and development of customizations for the Protheus system using the ADVPL language: Entry Points, Functionalities, Facilitators, TMSPrinter Reports, TReport, SetPrint and Excel, Screens, ExecAuto, and WorkFlow.
+  - I worked in the analysis and development of customizations for the Protheus system using the ADVPL language: Entry Points, Functionalities, Facilitators, TMSPrinter Reports, TReport, SetPrint, Excel, Screens, ExecAuto, and WorkFlow.
 
   - Provided user support (inquiries and corrections), maintained the data dictionary, and performed load balancing. Supported modules included: Purchasing, Management Accounting, Inventory/Costing, Billing, Finance, and Human Resources Management.
 

@@ -4,8 +4,6 @@ title: 'Alessandro Santos - Portfolio'
 #  This is my professional portfolio where I showcase my data engineering projects and skills.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: 'https://github.com/santospage/santospage.github.io' # the base hostname & protocol for your site
-#twitter_username: renancambre
-#github_username:  renancambre
 
 theme: minima
 
