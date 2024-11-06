@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: #1e90ff; /* Adjust link color for better visibility */
+}
+
+header, footer, .container {
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,19 @@
+title: 'Alessandro Santos - Portfolio'
+#email: alessandro.siga@gmail.com
+#description: >- # this means to ignore newlines until "baseurl:"
+#  This is my professional portfolio where I showcase my data engineering projects and skills.
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: 'https://github.com/santospage/santospage.github.io' # the base hostname & protocol for your site
+#twitter_username: renancambre
+#github_username:  renancambre
+
+theme: minima
+
+# Add this line to include your custom CSS file
+sass:
+  sass_dir: _sass
+
+baseurl: '' # or "/your-repo-name" if your site is hosted in a subdirectory
+
+plugins:
+  - jekyll-feed
