@@ -3,7 +3,7 @@ layout: default
 title: Curriculum
 ---
 
-## Hi, I'm Renan 👋
+## Hi, I'm Alessandro 👋
 
 I am a Full-Stack Software Developer with experience in creating scalable systems to meet the robust demands of large enterprises.
 
