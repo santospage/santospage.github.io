@@ -30,71 +30,59 @@ I have experience in object-oriented programming, working with languages such as
 ## Certifications
 
 - Java
-<p align="center">
-  <img src="assets/certificates/java_1.png" alt="Java Certification 1" width="160" style="margin: 15px;">
-  <img src="assets/certificates/java_2.png" alt="Java Certification 2" width="160" style="margin: 15px;">
-  <img src="assets/certificates/java_3.png" alt="Java Certification 3" width="160" style="margin: 15px;">
-  <img src="assets/certificates/spring_1.png" alt="Spring Certification 1" width="160" style="margin: 15px;">
-  <img src="assets/certificates/spring_2.png" alt="Spring Certification 2" width="160" style="margin: 15px;">
+<p align="center">  
+  <img src="assets/certificates/java_1.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/java_2.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/java_3.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/spring_1.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/spring_2.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">  
 </p>
 
 - C#
 <p align="center">
-  <img src="assets/certificates/c_sharp_1.png" alt="C# Certification 1" width="160" style="margin: 15px;">
-  <img src="assets/certificates/c_sharp_2.png" alt="C# Certification 2" width="160" style="margin: 15px;">  
+  <img src="assets/certificates/c_sharp_1.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/c_sharp_2.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
 </p>
 
 - Node.js
 <p align="center">
-  <img src="assets/certificates/node_1.png" alt="Node.js Certification 1" width="160" style="margin: 15px;">
-  <img src="assets/certificates/node_2.png" alt="Node.js Certification 2" width="160" style="margin: 15px;">  
+  <img src="assets/certificates/node_1.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/node_2.png" alt="Image 2" alt="Image 1" width="480" height="auto" style="margin: 10px;">
 </p>
 
 - Angular
 <p align="center">
-  <img src="assets/certificates/angular_1.png" alt="Angular Certification 1" width="160" style="margin: 15px;">
-  <img src="assets/certificates/angular_2.png" alt="Angular Certification 2" width="160" style="margin: 15px;">  
+  <img src="assets/certificates/angular_1.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/angular_2.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
 </p>
 
 ## Technical Skills
 
-Languages Program
-
 <details open>
 <summary>My top languages</summary>
 
-| Rank | Languages |
-| ---: | --------- |
-|    1 | TL++      |
-|    2 | Java      |
-|    3 | C#        |
-|    4 | Angular   |
+TL++
+Java
+C#
+Angular
 
 </details>
-
-Cloud Platforms
 
 <details open>
 <summary>My top Cloud Platforms</summary>
 
-| Rank | Platforms |
-| ---: | --------- |
-|    1 | AWS       |
+AWS
 
 </details>
-
-Database Management System
 
 <details open>
 <summary>My top Database Management Systems</summary>
 
-| Rank | Database   |
-| ---: | ---------- |
-|    1 | SQL Server |
-|    2 | Oracle     |
-|    3 | Postgres   |
-|    4 | MySQL      |
-|    5 | MongoDB    |
+SQL Server
+Oracle
+Postgres
+MySQL
+MongoDB
 
 </details>
 
@@ -104,26 +92,36 @@ Database Management System
 
   - Skilled professional in project management, solution development, and integration maintenance via REST and SOAP APIs.
   - Extensive experience in product development, from the initial conception phase (UX) through ongoing maintenance. Engaged in key client interviews, coding, pilot tracking, and product upkeep. My integrated approach spans all stages of the project lifecycle, contributing to effective solutions aligned with market needs.
+
   - I create efficient connections between systems and services using ADVPL and TL++ languages, develop web applications through the Angular framework, and implement development practices that yield cohesive, loosely coupled, clean, and reusable code.
+
   - Responsible for the creation of unit and integration tests, both manual and automated, ensuring comprehensive coverage of desired functionality. I use appropriate testing requirements and tools, such as Jasmine and ADVPR.
+
   - Creation of comprehensive documentation and meticulous content validation to facilitate understanding for both end users and support teams.
+
   - Demonstrate autonomy and the ability to operate with minimal supervision, effectively collaborating with teams and departments. I perform supervision, code review, and delivery tracking within an agile, multidisciplinary team, prioritizing tasks, removing roadblocks, and delegating tasks efficiently.
+
   - I adopt a DevSecOps culture, utilizing the CI/CD pipeline for artifact maintenance and updates. My work is focused not only on solution development but also on continuous security and operational functionality.
 
 - **BRITVIC EBBA** - System Analyst (2018 - 2019)
 
-  - I worked in the analysis and development of customizations for the Protheus system using the ADVPL language: Entry Points, Functionalities, Facilitators, TMSPrinter Reports, TReport, SetPrint and Excel, Screens, ExecAuto, and WorkFlow.
+  - I worked in the analysis and development of customizations for the Protheus system using the ADVPL language: Entry Points, Functionalities, Facilitators, TMSPrinter Reports, TReport, SetPrint, Excel, Screens, ExecAuto, and WorkFlow.
+
   - Provided user support (inquiries and corrections), maintained the data dictionary, and performed load balancing. Supported modules included: Purchasing, Management Accounting, Inventory/Costing, Billing, Finance, and Human Resources Management.
 
 - **Totvs SA** - System Analyst (2017 - 2018)
 
   - I was involved in the analysis and maintenance of system inconsistencies for the Protheus system, with an emphasis on the Retail module (SigaLoja, FrontLja, and TotvsPdv) using the ADVPL language. I participated in meetings and committees to define product innovations and high-impact adjustments.
+
   - I developed documentation and technical materials for the adjustments and improvements made. Responsible for ensuring the quality of the software delivery. Conducted training and provided internal support on improvements and system business rules.
+
   - I participated in the innovation and development of the Pdv Live Bematech x Protheus BackOffice integration.
 
 - **Totvs SA** - ERP Consultant (2011 - 2016)
 
   - I was involved in the analysis, requirements gathering, and development of customizations, innovations, and maintenance for the Protheus system using the ADVPL language. I developed integrations between Totvs brands (Protheus, RM, and Bematech) via XML and WebServices using Unique Message, Entry Points, Reports (TMSPrinter, TReport, SetPrint, Excel), Screens, ExecAuto, and Workflow.
-    Key Projects:
+
+  Key Projects:
+
   - Integration between Protheus PDV and RM BackOffice.
   - Netshoes: Gathering information for system integrations, development of customizations and WebServices, and integration of Protheus with NewHotel via Unique Message (XML).

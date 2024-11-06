@@ -27,71 +27,59 @@ I have experience in object-oriented programming, working with languages such as
 ## Certifications
 
 - Java
-<p align="center">
-  <img src="assets/certificates/java_1.png" alt="Image 1" width="240" style="margin: 10px;">
-  <img src="assets/certificates/java_2.png" alt="Image 2" width="240" style="margin: 10px;">
-  <img src="assets/certificates/java_3.png" alt="Image 3" width="240" style="margin: 10px;">
-  <img src="assets/certificates/spring_1.png" alt="Image 4" width="240" style="margin: 10px;">
-  <img src="assets/certificates/spring_2.png" alt="Image 5" width="240" style="margin: 10px;">
+<p align="center">  
+  <img src="assets/certificates/java_1.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/java_2.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/java_3.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/spring_1.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/spring_2.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">  
 </p>
 
 - C#
 <p align="center">
-  <img src="assets/certificates/c_sharp_1.png" alt="Image 1" width="240" style="margin: 10px;">
-  <img src="assets/certificates/c_sharp_2.png" alt="Image 2" width="240" style="margin: 10px;">  
+  <img src="assets/certificates/c_sharp_1.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/c_sharp_2.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
 </p>
 
 - Node.js
 <p align="center">
-  <img src="assets/certificates/node_1.png" alt="Image 1" width="240" style="margin: 10px;">
-  <img src="assets/certificates/node_2.png" alt="Image 2" width="240" style="margin: 10px;">  
+  <img src="assets/certificates/node_1.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/node_2.png" alt="Image 2" alt="Image 1" width="480" height="auto" style="margin: 10px;">
 </p>
 
 - Angular
 <p align="center">
-  <img src="assets/certificates/angular_1.png" alt="Image 1" width="240" style="margin: 10px;">
-  <img src="assets/certificates/angular_2.png" alt="Image 2" width="240" style="margin: 10px;">  
+  <img src="assets/certificates/angular_1.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
+  <img src="assets/certificates/angular_2.png" alt="Image 1" width="480" height="auto" style="margin: 10px;">
 </p>
 
 ## Technical Skills
 
-Languages Program
-
 <details open>
 <summary>My top languages</summary>
 
-| Rank | Languages |
-| ---: | --------- |
-|    1 | TL++      |
-|    2 | Java      |
-|    3 | C#        |
-|    4 | Angular   |
+TL++
+Java
+C#
+Angular
 
 </details>
-
-Cloud Platforms
 
 <details open>
 <summary>My top Cloud Platforms</summary>
 
-| Rank | Platforms |
-| ---: | --------- |
-|    1 | AWS       |
+AWS
 
 </details>
-
-Database Management System
 
 <details open>
 <summary>My top Database Management Systems</summary>
 
-| Rank | DBMS       |
-| ---: | ---------- |
-|    1 | SQL Server |
-|    2 | Oracle     |
-|    3 | Postgres   |
-|    4 | MySQL      |
-|    5 | MongoDB    |
+SQL Server
+Oracle
+Postgres
+MySQL
+MongoDB
 
 </details>
 

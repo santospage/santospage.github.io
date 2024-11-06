@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-# Welcome to My Data Development Portfolio
+# Welcome to My Development Portfolio
 
 <!--# Hi, I'm Alessandro 👋-->
 
