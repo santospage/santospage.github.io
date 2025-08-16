@@ -1,24 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Home - Portfólio Alessandro Santos</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Home - Portfólio Alessandro dos Santos</title>
+  <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
-
-  <aside>
-    <h1>Alessandro Santos</h1>
-
-    <nav>
-      <ul>
-        <li><a href="index.html" class="active">Home</a></li>
-        <li><a href="project.html">Projetos</a></li>
-        <li><a href="contact.html">Contato</a></li>
-      </ul>
-    </nav>
-  </aside>
+  <div id="menu-container"></div>
 
   <main>
     <section id="sobre">
@@ -30,15 +19,13 @@
 
   <footer>
     <div class="footer-container">
-      <p>© 2025 Alessandro Santos</p>
-      <div class="footer-icons" aria-label="Tecnologias">
-        <img src="java.png" alt="Java" />
-        <img src="node.svg" alt="Node.js" title="Node.js" />
-        <img src="angular.svg" alt="Angular" title="Angular" />
-        <img src="react.svg" alt="React" title="React" />
-      </div>
+      <p>© <span id="year"></span> Alessandro dos Santos</p>
     </div>
   </footer>
 
+  <script src="scripts/menu.js"></script>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>
