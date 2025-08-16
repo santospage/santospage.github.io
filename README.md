@@ -1,18 +1,17 @@
-# Portfolio Alessandro Santos
+﻿# Portfólio Alessandro Santos
 
-This is my initial portfolio project showcasing my professional experience and key projects.
+Este é o meu projeto inicial de portfólio, apresentando minha experiência profissional e principais projetos.
 
-The repository includes:
+O repositório inclui:
 
-- `index.html` � Home page with personal presentation  
-- `project.html` � Projects overview  
-- `contact.html` � Contact information  
+- `index.html` – Página inicial com apresentação pessoal  
+- `project.html` – Visão geral dos projetos   
 
-Technologies used: HTML5, CSS3, JavaScript.
+Tecnologias utilizadas: HTML5, CSS3, JavaScript.
 
-Feel free to explore and get in touch!
+Sinta-se à vontade para explorar e entrar em contato!
 
 ---
 
-Email: your.email@example.com  
-LinkedIn: https://linkedin.com/in/yourprofile
+Email: alessandro.siga@gmail.com  
+LinkedIn: [linkedin.com/in/alessandros](https://linkedin.com/in/alessandros)

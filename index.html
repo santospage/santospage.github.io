@@ -1,31 +1,89 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Home - Portfólio Alessandro dos Santos</title>
-  <link rel="stylesheet" href="styles/style.css">
-</head>
-<body>
-  <div id="menu-container"></div>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Home - Portfólio Alessandro dos Santos</title>
+    <link rel="stylesheet" href="styles/style.css">
+  </head>
+  <body>
+    <div id="menu-container"></div>
 
-  <main>
-    <section id="sobre">
-      <h2>Sobre Mim</h2>
-      <p>Sou desenvolvedor Full Stack com experiência em Java, Node.js, Next.js e bancos de dados relacionais e NoSQL.</p>
-      <p>Tenho paixão por criar soluções eficientes, escaláveis e com boa experiência para o usuário.</p>
-    </section>
-  </main>
+    <main>
+      <!-- Sobre Mim -->
+      <section id="sobre" class="about">
+        <h2>Sobre Mim</h2>
+        <div class="about">
+          <p>Sou Analista de Sistemas com ampla experiência como Desenvolvedor Sênior, atuando em todas as etapas do ciclo de vida de sistemas, desde a concepção técnica até a entrega contínua. Tenho sólida experiência em integrações via APIs REST e SOAP e forte atuação em ambientes corporativos que demandam escalabilidade, segurança e uma excelente experiência do usuário.</p>
+          <p>Ao longo da carreira, trabalhei com TL++, ADVPL e Angular em sistemas de grande porte, além de atuar em equipes ágeis, participando desde entrevistas com stakeholders até code reviews e entregas contínuas. Valorizo código limpo, desacoplado e reutilizável, sempre alinhado às melhores práticas de engenharia de software.</p>
+          <p>Atualmente, estou expandindo minha stack com foco em Java (Spring Boot), Node.js, Express e React, além de aplicar práticas modernas como CI/CD com GitHub Actions, testes automatizados e deploy em cloud (GCP e AWS).</p>
+          <p>Concluí recentemente uma pós-graduação em Desenvolvimento Full Stack na FIAP, onde desenvolvi projetos práticos envolvendo autenticação JWT, microsserviços, deploy automatizado e versionamento com Git. Entre os destaques está uma aplicação com chatbot inteligente utilizando IA generativa via API da OpenAI, capaz de realizar atendimentos automatizados com interação natural com o usuário.</p>
+          <p>Sou Bacharel em Sistemas de Informação pela UMC, pós-graduado em Sistemas de Gestão Empresarial ERP pela AVM e em Full Stack Development pela FIAP.</p>        
+        </div>
+      </section>
 
-  <footer>
-    <div class="footer-container">
-      <p>© <span id="year"></span> Alessandro dos Santos</p>
-    </div>
-  </footer>
+      <br>
 
-  <script src="scripts/menu.js"></script>
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
-</body>
+      <!-- Competências -->
+      <section id="competencias" class="about">
+        <h2>Principais Competências</h2>
+        <div class="about">
+          <ul class="skills-list">                                        
+            <li>
+              <img src="assets/totvs.png" alt="Advpl" height="30" width="30">
+              <strong>ADVPL | TL++:</strong>
+              <span>Desenvolvedor Full Stack na TOTVS</span>
+            </li>
+
+            <li>
+              <img src="assets/angular.png" alt="Angular" height="30" width="30">
+              <strong>Angular | POUI:</strong>
+              <span>Desenvolvedor Full Stack na TOTVS</span>
+            </li>
+
+            <li>
+              <img src="assets/banco.png" alt="Banco de Dados" height="30" width="30">
+              <strong>SQL Server | Oracle | Postgres:</strong>
+              <span>Desenvolvedor Full Stack na TOTVS</span>
+            </li>
+
+            <li>
+              <img src="assets/java.png" alt="Java" height="30" width="30">
+              <strong>Java:</strong>
+              <span>PosTech Full Stack na FIAP</span>
+            </li>
+
+            <li>
+              <img src="assets/node.png" alt="Node.js" height="30" width="30">
+              <strong>Nodejs:</strong>
+              <span>PosTech Full Stack na FIAP</span>
+            </li>
+
+            <li>
+              <img src="assets/react.png" alt="React" height="30" width="30">
+              <strong>React:</strong>
+              <span>PosTech Full Stack na FIAP</span>
+            </li>
+
+            <li>
+              <img src="assets/mongo.png" alt="MongoDB" height="30" width="30">
+              <strong>MongoDB:</strong>
+              <span>PosTech Full Stack na FIAP</span>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-container">
+        <p>© <span id="year"></span> Alessandro dos Santos</p>
+      </div>
+    </footer>
+
+    <script src="scripts/menu.js"></script>
+    <script>
+      document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+  </body>
 </html>

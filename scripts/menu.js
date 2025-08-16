@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+﻿document.addEventListener('DOMContentLoaded', () => {
   const menuContainer = document.getElementById('menu-container');
   if (!menuContainer) return;
 
@@ -6,10 +6,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const isIndex = path === '' || path === 'index.html';
   const isProject = path === 'project.html';
 
-  // Definindo links relativos conforme a p�gina atual
   const links = {
     home: isIndex ? 'index.html' : '../index.html',
-    projects: isIndex ? 'pages/project.html' : 'project.html'
+    projects: isIndex ? 'pages/project.html' : 'project.html',
+    curriculum: isIndex ? 'assets/curriculo.pdf' : '../assets/curriculo.pdf'
   };
 
   menuContainer.innerHTML = `
@@ -24,6 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <ul>
             <li><a href="${links.home}" ${isIndex ? 'class="active"' : ''}>Home</a></li>
             <li><a href="${links.projects}" ${isProject ? 'class="active"' : ''}>Projetos</a></li>
+            <li><a href="${links.curriculum}" download="Curriculo-Alessandro.pdf">Currículo</a></li>
           </ul>
         </nav>
       </div>
@@ -31,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="contact-info">
         <h2>Contato</h2>
         <ul>
-          <li>&#128231; Email: alessandro.siga@gmail.com</li>
+          <li>&#128231; E-mail: alessandro.siga@gmail.com</li>
           <li>&#128188; LinkedIn: <a class="contact-link" href="https://www.linkedin.com/in/alessandros/" target="_blank">linkedin.com/in/alessandros</a></li>
           <li>&#128025; GitHub: <a class="contact-link" href="https://github.com/santospage" target="_blank">github.com/santospage</a></li>
         </ul>
