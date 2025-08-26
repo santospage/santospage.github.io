@@ -85,5 +85,12 @@
     <script>
       document.getElementById('year').textContent = new Date().getFullYear();
     </script>
+
+    <script>
+      fetch('https://abacus.jasoncameron.dev/hit/santospage.github.io/visitas')
+        .then(res => res.json())
+        .then(res => console.log('Contador incrementado:', res.value))
+        .catch(err => console.error('Erro ao contar visitas', err));
+    </script>
   </body>
 </html>
