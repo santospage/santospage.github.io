@@ -85,13 +85,6 @@
     <script>
       document.getElementById('year').textContent = new Date().getFullYear();
     </script>
-
-    <script>
-      fetch('https://api.countapi.xyz/hit/santospage.github.io/visitas')
-      .then(res => res.json())
-      .then(data => console.log('Visitas:', data.value))
-      .catch(err => console.error(err));
-    </script>
     
   </body>
 </html>
