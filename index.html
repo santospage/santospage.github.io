@@ -84,9 +84,16 @@
     <script src="scripts/menu.js"></script>
     <script>
       document.getElementById('year').textContent = new Date().getFullYear();
-    </script>
-    
-    <img src="https://hits.sh/santospage.github.svg" width="0" height="0" style="display:none;" alt="">
 
+      window.addEventListener('load', () => {
+        const img = new Image();
+        img.src = "https://hits.sh/santospage.github.svg?" + Date.now();
+        img.width = 0;
+        img.height = 0;
+        img.style.display = "none";
+        document.body.appendChild(img);
+       });
+    </script>
+        
   </body>
 </html>
